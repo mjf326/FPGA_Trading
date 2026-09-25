@@ -1,0 +1,18 @@
+# Build directories and generated test vectors
+build/
+sim/*.hex
+reports/
+
+# Vivado temporary files & logs
+*.xpr
+*.logs/
+*.jou
+*.pb
+*.str
+.Xil/
+*.runs/
+*.sim/
+*.gen/
+*.cache/
+*.hw/
+*.ip_user_files/
